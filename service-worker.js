@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bvz/precache-manifest.7bf146f67926960e289d6789ef0db2ae.js"
+  "/bvz/precache-manifest.3a512bc8caddc99587e54e2fea1f5784.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "boston-vz"});
