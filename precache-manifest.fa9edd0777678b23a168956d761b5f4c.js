@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0154d03b1a3bc5aa41ee",
+    "revision": "85cdc04e9d8331f339b7",
     "url": "/bvz/css/app.c9fdb18f.css"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bvz/data/vision_zero_ss.json"
   },
   {
-    "revision": "2896fc7f436fbe41f8be8543ec6318a5",
+    "revision": "9a0b1a5dc070b4b7c0565b7f32e1a8ea",
     "url": "/bvz/index.html"
   },
   {
-    "revision": "0154d03b1a3bc5aa41ee",
-    "url": "/bvz/js/app.3f7ebf21.js"
+    "revision": "85cdc04e9d8331f339b7",
+    "url": "/bvz/js/app.8e2a8a59.js"
   },
   {
-    "revision": "828558d1908cc3940e24",
-    "url": "/bvz/js/chunk-vendors.84bbd581.js"
+    "revision": "5b12cfc13637e473aa10",
+    "url": "/bvz/js/chunk-vendors.99fd7423.js"
   },
   {
     "revision": "5279259f1808116e405e62be4c4af23d",
