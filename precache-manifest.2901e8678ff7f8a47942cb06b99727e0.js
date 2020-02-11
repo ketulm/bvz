@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "901fc6251610b4eaaf01",
+    "revision": "36f4d46bfcfb36d389a7",
     "url": "/bvz/css/app.c9fdb18f.css"
   },
   {
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bvz/data/vision_zero_ss.json"
   },
   {
-    "revision": "de3c96f8a89ab60f3f5f51c8e2db22b4",
+    "revision": "52ccfeeba2bed2b765a0379e9d980c4b",
     "url": "/bvz/index.html"
   },
   {
-    "revision": "901fc6251610b4eaaf01",
-    "url": "/bvz/js/app.f61923b8.js"
+    "revision": "36f4d46bfcfb36d389a7",
+    "url": "/bvz/js/app.4433874c.js"
   },
   {
     "revision": "828558d1908cc3940e24",
